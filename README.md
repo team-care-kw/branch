@@ -1,4 +1,4 @@
-# Chainer Realtime Multi-Person Pose Estimation
+# Home healthcare with Neural Network and Chainer Pose Estimation
 
 [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) 논문을 기반으로 FMS 동작(Deep Squat, Hurdle Step, In-line Lunge, Active Straight-leg Raise, Trunk Stability Push-up, Rotary Stability, Shoulder Mobility)을 인식해 FMS 점수에 유사한 평가지표를 만드는 목표에 앞서 동작을 인식하고 자세를 측정하는 모델을 구현해 본다.
 
